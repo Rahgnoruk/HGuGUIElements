@@ -1,0 +1,26 @@
+{
+    "name": "com.hypergnosys.ugui-elements",
+    "version": "1.0.0",
+    "displayName": "HGuGUIElements",
+    "description": "Prefabs and Components to connect HGCodeBaseCore with the uGUI",
+    "unity": "2020.3",
+    "unityRelease": "11f1",
+    "documentationUrl": "https://github.com/Rahgnoruk/HGuGUIElements",
+    "changelogUrl": "https://github.com/Rahgnoruk/HGuGUIElements",
+    "licensesUrl": "https://github.com/Rahgnoruk/HGuGUIElements",
+    "keywords": [
+      "HyperGnosys",
+      "uGUI"
+    ],
+    "author": {
+      "name": "Sergio Raimond",
+      "email": "sergio.raimond@hypergnosys.com",
+      "url": "https://www.hypergnosys.com"
+    },
+    "dependencies": {
+      "com.unity.textmeshpro": "3.0.6"
+    },
+    "gitDependencies": {
+      "com.hypergnosys.core": "https://github.com/Rahgnoruk/HGCodeBaseCore#2.2.0"
+    }
+  }
